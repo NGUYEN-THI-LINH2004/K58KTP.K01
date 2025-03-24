@@ -58,6 +58,11 @@
 ![Screenshot 2025-03-23 234743](https://github.com/user-attachments/assets/d58f0790-b9d0-468b-b14a-a94e10ab23b7)
 ### Đây là cách để hiện code ra ngoài màn hình
 ![Screenshot 2025-03-20 140416](https://github.com/user-attachments/assets/c31641ad-a9c5-43d0-bdbf-61b48ead2eb1)
+### Đây là hình ảnh mô tả việc tạo ra bảng check
+![Screenshot 2025-03-24 194428](https://github.com/user-attachments/assets/27c9de5d-3f7a-4ef9-bc95-97d0296cf3b1)
+### Đây là bảng Null
+![Screenshot 2025-03-24 194438](https://github.com/user-attachments/assets/4a435f00-388e-433f-8169-05d2e0966e4a)
+
 ## SinhVien(#masv,hoten,NgaySinh)
 ### Đây là cách tạo khóa chính cho bảng sinh viên
 ![Screenshot 2025-03-23 234714](https://github.com/user-attachments/assets/c6f37696-59da-4401-80a2-d0c7ae9e6c28)  
@@ -79,6 +84,7 @@
 ![Screenshot 2025-03-23 155353](https://github.com/user-attachments/assets/90d6cf89-6a1d-4105-bcf3-4b25647e8df8)
 ### Đây là ảnh bảng NULL
 ![Screenshot 2025-03-23 132032](https://github.com/user-attachments/assets/5f93bcde-5814-4382-ab79-6ec990725bd2)
+
 ## GVCN(#@maLop,#@magv,#HK)
 ### Đây là hình ảnh tạo bảng GVCN thành công
 ![Screenshot 2025-03-23 152733](https://github.com/user-attachments/assets/3d78321c-1006-4f6e-92dc-b24cc39c4450)
@@ -124,6 +130,7 @@
 ![Screenshot 2025-03-23 135213](https://github.com/user-attachments/assets/f2fa972f-b68d-4e53-98b4-53f5316b74a3)
 ### Kết quả của bảng check
 ![Screenshot 2025-03-22 223101](https://github.com/user-attachments/assets/0c163908-3f5a-4e5e-b514-716a46f3645d)
+
 ## BoMon(#MaBM,tenBM,@maKhoa)
 ### Đây là hình ảnh tạo bảng thành công
 ![Screenshot 2025-03-21 001331](https://github.com/user-attachments/assets/431601d7-d780-42b8-abc0-48dde5166b75)
