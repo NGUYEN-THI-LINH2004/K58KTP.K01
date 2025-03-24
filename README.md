@@ -110,13 +110,86 @@
 ![Screenshot 2025-03-23 144418](https://github.com/user-attachments/assets/9abd5964-ea11-4259-934b-db5a2f49b15c)
 
 ### GiaoVien(#magv,hoten,NgaySinh,@maBM)
+### Đây là hình ảnh tạo bảng thành công
+![Screenshot 2025-03-20 160140](https://github.com/user-attachments/assets/00ca091c-a8b8-40a9-b821-b8b365bfe40f)
+### Đây là hình ảnh tạo khóa ngoại
+![Screenshot 2025-03-24 143505](https://github.com/user-attachments/assets/1bb30817-753f-40aa-a0cf-116d10ec02b1)
+### Tiếp theo là:
+![Screenshot 2025-03-24 143515](https://github.com/user-attachments/assets/034bab06-053d-4c7f-81e8-1eef5085598e)
+### Cuối cùng là:
+![Screenshot 2025-03-24 143546](https://github.com/user-attachments/assets/945b03f7-2429-47fb-be56-72d0f54bd86f)
+### Đây là hình ảnh code chạy thành công
+![Screenshot 2025-03-20 163413](https://github.com/user-attachments/assets/ef70932a-9567-47cf-8853-ea0766dd4e6c)
+### Đây là hình ảnh mô tả việc tạo bảng check
+![Screenshot 2025-03-23 135213](https://github.com/user-attachments/assets/f2fa972f-b68d-4e53-98b4-53f5316b74a3)
+### Kết quả của bảng check
+![Screenshot 2025-03-22 223101](https://github.com/user-attachments/assets/0c163908-3f5a-4e5e-b514-716a46f3645d)
+## BoMon(#MaBM,tenBM,@maKhoa)
+### Đây là hình ảnh tạo bảng thành công
+![Screenshot 2025-03-21 001331](https://github.com/user-attachments/assets/431601d7-d780-42b8-abc0-48dde5166b75)
+### Đây là hình ảnh tạo khóa ngoại
+![Screenshot 2025-03-24 151057](https://github.com/user-attachments/assets/84dcbb05-3e14-4940-baca-e114944c5b25)
+### Tiếp theo là:
+![Screenshot 2025-03-24 151117](https://github.com/user-attachments/assets/255f227b-0072-4f68-b184-dd7dc8bb1f78)
+### Cuối cùng là:
+![Screenshot 2025-03-24 151130](https://github.com/user-attachments/assets/7ae13f8d-b71a-4527-832c-c9aa538513f8)
+### Đây là hình ảnh code chạy thành công
+![Screenshot 2025-03-20 231233](https://github.com/user-attachments/assets/6968e54d-6274-415e-858c-fb74796e5cb8)
+### Đây là hình ảnh mô tả việc tạo bảng check
+![Screenshot 2025-03-23 151954](https://github.com/user-attachments/assets/6b825d02-be6c-46b5-96b7-e11361d8042a)
+### Kết quả của bảng check
+![Screenshot 2025-03-22 223107](https://github.com/user-attachments/assets/603b579b-480f-4655-80ef-c667875633b4)
 
+## Khoa(#maKhoa,tenKhoa)
+### Đây là hình ảnh tạo bảng thành công
+![Screenshot 2025-03-24 155044](https://github.com/user-attachments/assets/e6cdb4d5-2f89-43dd-b381-dcf890a4a294)
+### Đây là hình ảnh code chạy thành công
+![Screenshot 2025-03-20 215802](https://github.com/user-attachments/assets/56de9a31-4e58-4e5e-bd5b-ddd5ca0deefe)
+### Đây là hình ảnh mô tả việc tạo bảng check
+![Screenshot 2025-03-24 161843](https://github.com/user-attachments/assets/570a520a-35af-4a3c-b334-c1baf0a770d3)
+### Tiếp theo là:
+![Screenshot 2025-03-24 161903](https://github.com/user-attachments/assets/2db28610-2762-48c7-9fa8-87f955cae6c8)
+### Cuối cùng là:
+![Screenshot 2025-03-24 183855](https://github.com/user-attachments/assets/1e7416d4-80c5-4e1a-b7a3-b75c066dabfd)
+### Kết quả của bảng check
+![Screenshot 2025-03-22 235158](https://github.com/user-attachments/assets/606f3503-be1e-47c9-b7d0-07b3e75e3e1f)
 
+## MonHoc(#mamon,Tenmon,STC)
+### Đây là hình ảnh tạo bảng thành công
+![Screenshot 2025-03-21 205716](https://github.com/user-attachments/assets/a3f715d3-1063-49ac-a109-bca08c19781c)
+### Đây là hình ảnh code chạy thành công
+![Screenshot 2025-03-21 214225](https://github.com/user-attachments/assets/8de1209c-d1b2-48b5-be10-e076dc0001d3)
+### Đây là hình ảnh mô tả việc tạo bảng check
+![Screenshot 2025-03-23 134511](https://github.com/user-attachments/assets/a4a17d2b-9c32-4735-8338-40f41a5b2e4e)
+### Kết quả của bảng check
+![Screenshot 2025-03-23 134626](https://github.com/user-attachments/assets/e945f648-7a2d-4ef8-b07e-15529c625dab)
 
+## LopHP(#maLopHP,TenLopHP,HK,@maMon,@maGV)
+### Đây là hình ảnh tạo bảng thành công
+![Screenshot 2025-03-21 214506](https://github.com/user-attachments/assets/13a2ffef-df35-4812-9f18-c362b2c8a953)
+### Đây là hình ảnh mô tả viêc tạo khóa ngoại
+![Screenshot 2025-03-21 213456](https://github.com/user-attachments/assets/160ff24f-3223-43d2-bbcc-8c65cba512db)
+### Tiếp theo là:
+![Screenshot 2025-03-21 213533](https://github.com/user-attachments/assets/9e0b56cb-506a-44a3-919c-a1577f12685c)
+### Cuối cùng là
+![Screenshot 2025-03-22 210126](https://github.com/user-attachments/assets/5223b31e-b5f9-4656-b0ba-0e6f03d9a96a)
+### Đây là hình ảnh code chạy thành công
+![Screenshot 2025-03-21 214806](https://github.com/user-attachments/assets/a76be2a6-a0cb-46de-8e50-ff28e49af73a)
+### Đây là hình ảnh mô tả việc tạo bảng check
+![Screenshot 2025-03-22 205923](https://github.com/user-attachments/assets/565cfafb-1450-4f7f-a5ee-b4096647f6c8)
+### Kết quả của bảng check
+![Screenshot 2025-03-22 230406](https://github.com/user-attachments/assets/7d07ad38-e7e1-4dcd-a9ec-9e05843d5646)
 
-
-
-
-
-
-
+## DKMH(#@maLopHP,#@maSV,DiemTP,DiemThi,PhanTramThi)
+### Đây là hình ảnh tạo bảng thành công
+![Screenshot 2025-03-22 235705](https://github.com/user-attachments/assets/26256b7c-0cf8-4d98-a52f-46203a35278e)
+### Đây là hình ảnh mô tả viêc tạo khóa ngoại
+![Screenshot 2025-03-22 204954](https://github.com/user-attachments/assets/1c9f620a-7eb2-4945-b7c9-327cd1c9885e)
+### Tiếp theo là:
+![Screenshot 2025-03-22 205025](https://github.com/user-attachments/assets/0d4bb32d-8149-49cb-b377-5dfc354aa641)
+### Đây là hình ảnh code chạy thành công
+![Screenshot 2025-03-22 205615](https://github.com/user-attachments/assets/e581a4d3-a142-4bfb-945a-1604c949a2a9)
+### Đây là hình ảnh mô tả việc tạo bảng check
+![Screenshot 2025-03-23 152600](https://github.com/user-attachments/assets/6f017c4c-4211-4261-9f29-e4ccb1d688bd)
+### Kết quả của bảng check
+![Screenshot 2025-03-22 233259](https://github.com/user-attachments/assets/d47e3a38-5f8f-4a0f-aa77-b5c1e3f90ab0)
