@@ -47,19 +47,27 @@
 
 
 ## ẢNH CHỤP MÀN HÌNH
+
 ### Đây là ảnh  mô tả việc tạo database
 ![Screenshot 2025-03-23 171630](https://github.com/user-attachments/assets/b8dfecc2-d05a-42d5-aaf8-ad1828ce677e)
+
 ### Đây là mô tả việc tạo bảng
 ![Screenshot 2025-03-23 171617](https://github.com/user-attachments/assets/fcdb8a01-af66-42e9-bf38-b1c7be541c88)
+
 ### Đây là mô tả tạo khóa chính
 ![Screenshot 2025-03-23 234714](https://github.com/user-attachments/assets/c6f37696-59da-4401-80a2-d0c7ae9e6c28)
-### Đây là ảnh mô tả cách tạo bảng check
-![Screenshot 2025-03-23 234727](https://github.com/user-attachments/assets/9f156909-2e7d-45a8-80da-ba2012ad2f23)
-![Screenshot 2025-03-23 234743](https://github.com/user-attachments/assets/d58f0790-b9d0-468b-b14a-a94e10ab23b7)
+
+### Đây là ảnh mô tả cách tạo khóa ngoại
+![Screenshot 2025-03-23 223627](https://github.com/user-attachments/assets/65b601a7-d8ec-49fb-8da0-57dad97b9ef1)
+![Screenshot 2025-03-23 223726](https://github.com/user-attachments/assets/95204402-0e4f-4ed9-8a7a-bfd95792fcda)
+![Screenshot 2025-03-23 224307](https://github.com/user-attachments/assets/420d5b19-e136-44d9-a04e-8535bd759782)
+
 ### Đây là cách để hiện code ra ngoài màn hình
 ![Screenshot 2025-03-20 140416](https://github.com/user-attachments/assets/c31641ad-a9c5-43d0-bdbf-61b48ead2eb1)
 ### Đây là hình ảnh mô tả việc tạo ra bảng check
-![Screenshot 2025-03-24 194428](https://github.com/user-attachments/assets/27c9de5d-3f7a-4ef9-bc95-97d0296cf3b1)
+![Screenshot 2025-03-23 234727](https://github.com/user-attachments/assets/9f156909-2e7d-45a8-80da-ba2012ad2f23)
+![Screenshot 2025-03-23 155531](https://github.com/user-attachments/assets/89f19746-2c16-46e8-9803-fc5e7035a05d)
+
 ### Đây là bảng Null
 ![Screenshot 2025-03-24 194438](https://github.com/user-attachments/assets/4a435f00-388e-433f-8169-05d2e0966e4a)
 
@@ -72,7 +80,7 @@
 ![Screenshot 2025-03-20 142246](https://github.com/user-attachments/assets/ae1a3740-10f9-4f94-a184-be96faa0690e)  
 ### Đây là mô tả tạo ra bảng check ở bảng sinh viên
 ![Screenshot 2025-03-23 234727](https://github.com/user-attachments/assets/05cac6ad-39f7-440a-9d9e-55a059f0d069)
-![Screenshot 2025-03-23 234743](https://github.com/user-attachments/assets/139395ca-142f-4847-9f73-847e36212a46) 
+![Screenshot 2025-03-23 155531](https://github.com/user-attachments/assets/b39b4bf2-e843-4996-8778-c4a4e714990f)
 ### Đây là kết quả
 ![Screenshot 2025-03-23 134039](https://github.com/user-attachments/assets/a960d427-957b-49a1-b31e-cc8439e3abec)
 ### Lop(#maLop,tenLop)
@@ -81,7 +89,7 @@
 ### Đây là hình ảnh code đã chạy ra thành công
 ![Screenshot 2025-03-20 155427](https://github.com/user-attachments/assets/48d8a331-623e-4d83-8d1a-8d3126014dcd)
 ### Đây là hình ảnh check của bảng lớp 
-![Screenshot 2025-03-23 155353](https://github.com/user-attachments/assets/90d6cf89-6a1d-4105-bcf3-4b25647e8df8)
+![Screenshot 2025-03-23 155353](https://github.com/user-attachments/assets/2b911207-f335-4266-b392-40afa885c9f2)
 ### Đây là ảnh bảng NULL
 ![Screenshot 2025-03-23 132032](https://github.com/user-attachments/assets/5f93bcde-5814-4382-ab79-6ec990725bd2)
 
@@ -111,7 +119,7 @@
 ### Đây là code chạy thành công của bảng lớp SV
 ![Screenshot 2025-03-21 203352](https://github.com/user-attachments/assets/735c46a4-b5ef-4977-894f-6e17d21f3fe5)  
 ### Tiếp đến là tạo bảng check
-![Screenshot 2025-03-23 141845](https://github.com/user-attachments/assets/38b49b07-7c75-43bc-a559-144d136c04a8)
+![Screenshot 2025-03-24 183855](https://github.com/user-attachments/assets/0d3f506d-cc78-4f40-ab05-9c4f4bf311cc)
 ### Đây là kết quả khi tạo bảng check xong
 ![Screenshot 2025-03-23 144418](https://github.com/user-attachments/assets/9abd5964-ea11-4259-934b-db5a2f49b15c)
 
@@ -153,11 +161,7 @@
 ### Đây là hình ảnh code chạy thành công
 ![Screenshot 2025-03-20 215802](https://github.com/user-attachments/assets/56de9a31-4e58-4e5e-bd5b-ddd5ca0deefe)
 ### Đây là hình ảnh mô tả việc tạo bảng check
-![Screenshot 2025-03-24 161843](https://github.com/user-attachments/assets/570a520a-35af-4a3c-b334-c1baf0a770d3)
-### Tiếp theo là:
-![Screenshot 2025-03-24 161903](https://github.com/user-attachments/assets/2db28610-2762-48c7-9fa8-87f955cae6c8)
-### Cuối cùng là:
-![Screenshot 2025-03-24 183855](https://github.com/user-attachments/assets/1e7416d4-80c5-4e1a-b7a3-b75c066dabfd)
+![Screenshot 2025-03-23 155335](https://github.com/user-attachments/assets/ff331917-f094-4a77-b112-7a2e3e9a9c16)
 ### Kết quả của bảng check
 ![Screenshot 2025-03-22 235158](https://github.com/user-attachments/assets/606f3503-be1e-47c9-b7d0-07b3e75e3e1f)
 
