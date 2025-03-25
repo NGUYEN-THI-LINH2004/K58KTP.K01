@@ -59,15 +59,16 @@
 
 ### Đây là ảnh mô tả cách tạo khóa ngoại
 ![Screenshot 2025-03-23 223627](https://github.com/user-attachments/assets/65b601a7-d8ec-49fb-8da0-57dad97b9ef1)
-![Screenshot 2025-03-23 223726](https://github.com/user-attachments/assets/95204402-0e4f-4ed9-8a7a-bfd95792fcda)
-![Screenshot 2025-03-23 224307](https://github.com/user-attachments/assets/420d5b19-e136-44d9-a04e-8535bd759782)
+![Screenshot 2025-03-23 223726](https://github.com/user-attachments/assets/df536f68-398d-4741-a7c6-c97573cda9eb)
+![Screenshot 2025-03-23 224307](https://github.com/user-attachments/assets/e1306f36-7b81-4e77-bbf5-257566bc42da)
 
 ### Đây là cách để hiện code ra ngoài màn hình
 ![Screenshot 2025-03-20 140416](https://github.com/user-attachments/assets/c31641ad-a9c5-43d0-bdbf-61b48ead2eb1)
 ### Đây là hình ảnh mô tả việc tạo ra bảng check
 ![Screenshot 2025-03-23 234727](https://github.com/user-attachments/assets/9f156909-2e7d-45a8-80da-ba2012ad2f23)
 ![Screenshot 2025-03-23 155531](https://github.com/user-attachments/assets/89f19746-2c16-46e8-9803-fc5e7035a05d)
-
+### Đây là cách hiện ra bảng check
+![Screenshot 2025-03-24 194428](https://github.com/user-attachments/assets/e3d4118d-baf8-4e82-aec9-3204a846997c)
 ### Đây là bảng Null
 ![Screenshot 2025-03-24 194438](https://github.com/user-attachments/assets/4a435f00-388e-433f-8169-05d2e0966e4a)
 
