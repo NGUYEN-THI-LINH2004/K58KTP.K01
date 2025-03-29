@@ -22,7 +22,7 @@ YÊU CẦU:
 
 ## TẠO BẢNG DIỂM
 ![Screenshot 2025-03-28 082436](https://github.com/user-attachments/assets/2014f5b7-58e4-482c-8e86-504b713a94d8)
-## ĐÂY LÀ BẢNG ĐIỂM ĐÃ ĐƯỢC SỬA
+## ĐÂY LÀ BẢNG DKMH ĐÃ ĐƯỢC SỬA
 ![Screenshot 2025-03-27 163159](https://github.com/user-attachments/assets/9a2a63bc-bebe-4a56-83a0-113d1c6fb75b)
 ## ĐẶT ĐIỀU KIỆN CHO BẢNG ĐIỂM
 ### ĐẶT KHÓA NGOẠI
