@@ -48,7 +48,7 @@ YÊU CẦU:
 ### DKMH
 ![Screenshot 2025-03-28 224244](https://github.com/user-attachments/assets/4352f142-b448-4857-94a8-f8cd9be59670)
 ## Đây là đoạn code truy vấn thành công
-![Screenshot 2025-03-28 223804](https://github.com/user-attachments/assets/2ceb65a3-2119-44d3-934e-2e34febe201b)
+![Screenshot 2025-03-29 224342](https://github.com/user-attachments/assets/45d5261a-7dcb-447a-b5a3-64fb3996212e)
 ## XUẤT FILE DỮ LIỆU CỦA DB (bai_tap_3_schema.sql)
 ![Screenshot 2025-03-29 185001](https://github.com/user-attachments/assets/f59272fc-e1fe-4352-90aa-575ecf8b7c8f)
 ## Xuất dữ liệu đã nhập (bai_tap_3_data.sql)
